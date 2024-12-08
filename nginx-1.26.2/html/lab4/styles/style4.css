@@ -1,0 +1,11 @@
+body {
+    background-color: lightgray;
+}
+h1 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: darkred;
+}
+p {
+    text-align: justify;
+}

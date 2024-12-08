@@ -1,0 +1,45 @@
+2024/12/06 12:00:01 [error] 916#17768: *1 CreateFile() "C:\FAKS\ZIMSKI_SEMESTAR\NRPPW\Labosi\Lab4\nginx-1.26.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/12/07 23:48:26 [emerg] 17424#2952: cannot load certificate "C:/nginx/ssl/selfsigned.crt": BIO_new_file() failed (SSL: error:80000003:system library::No such process:calling fopen(C:/nginx/ssl/selfsigned.crt, r) error:10000080:BIO routines::no such file)
+2024/12/07 23:50:15 [warn] 17316#13796: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2024/12/07 23:50:32 [warn] 8644#8468: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2024/12/07 23:50:32 [notice] 8644#8468: signal process started
+2024/12/07 23:50:32 [warn] 16460#12376: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2024/12/07 23:51:03 [error] 16460#14128: *10 CreateFile() "C:\FAKS\ZIMSKI_SEMESTAR\NRPPW\Labosi\Lab4\nginx-1.26.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "https://localhost/"
+2024/12/08 00:08:10 [warn] 14772#14640: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\FAKS\ZIMSKI_SEMESTAR\NRPPW\Labosi\Lab4\nginx-1.26.2/conf/nginx.conf:51
+2024/12/08 00:08:10 [warn] 14772#14640: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2024/12/08 00:08:16 [warn] 18484#10684: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\FAKS\ZIMSKI_SEMESTAR\NRPPW\Labosi\Lab4\nginx-1.26.2/conf/nginx.conf:51
+2024/12/08 00:08:16 [warn] 18484#10684: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2024/12/08 00:08:16 [notice] 18484#10684: signal process started
+2024/12/08 00:08:16 [warn] 11604#2100: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\FAKS\ZIMSKI_SEMESTAR\NRPPW\Labosi\Lab4\nginx-1.26.2/conf/nginx.conf:51
+2024/12/08 00:08:16 [warn] 11604#2100: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2024/12/08 00:09:29 [error] 11604#6304: *18 CreateFile() "C:\FAKS\ZIMSKI_SEMESTAR\NRPPW\Labosi\Lab4\nginx-1.26.2/html/html/lab4/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /html/lab4/index.html HTTP/1.1", host: "localhost"
+2024/12/08 00:11:12 [warn] 9456#12740: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2024/12/08 00:11:18 [warn] 13800#276: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2024/12/08 00:11:18 [notice] 13800#276: signal process started
+2024/12/08 00:11:18 [warn] 17620#15408: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2024/12/08 00:19:36 [notice] 17868#13920: signal process started
+2024/12/08 00:20:13 [notice] 12372#19220: signal process started
+2024/12/08 00:34:20 [notice] 4292#14000: signal process started
+2024/12/08 00:34:51 [notice] 13144#15928: signal process started
+2024/12/08 00:35:57 [error] 19396#19268: *67 CreateFile() "C:\FAKS\ZIMSKI_SEMESTAR\NRPPW\Labosi\Lab4\nginx-1.26.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "https://localhost/lab4/index.html"
+2024/12/08 00:42:53 [notice] 17996#1592: signal process started
+2024/12/08 01:10:32 [notice] 15436#14596: signal process started
+2024/12/08 01:11:01 [error] 15692#19096: *90 CreateFile() "C:\FAKS\ZIMSKI_SEMESTAR\NRPPW\Labosi\Lab4\nginx-1.26.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "https://localhost/lab4/index.html"
+2024/12/08 01:11:32 [notice] 16468#17964: signal process started
+2024/12/08 01:11:52 [error] 13428#14548: *101 CreateFile() "C:\FAKS\ZIMSKI_SEMESTAR\NRPPW\Labosi\Lab4\nginx-1.26.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/2.0", host: "localhost", referrer: "https://localhost/lab4/index.html"
+2024/12/08 01:13:39 [error] 13428#14548: *105 CreateFile() "C:\FAKS\ZIMSKI_SEMESTAR\NRPPW\Labosi\Lab4\nginx-1.26.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/2.0", host: "localhost", referrer: "https://localhost/lab4/index.html"
+2024/12/08 01:15:12 [notice] 19312#16612: signal process started
+2024/12/08 01:15:23 [error] 18016#5704: *121 CreateFile() "C:\FAKS\ZIMSKI_SEMESTAR\NRPPW\Labosi\Lab4\nginx-1.26.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "https://localhost/lab4/index.html"
+2024/12/08 01:16:38 [notice] 19272#18444: signal process started
+2024/12/08 01:16:48 [error] 6420#128: *132 CreateFile() "C:\FAKS\ZIMSKI_SEMESTAR\NRPPW\Labosi\Lab4\nginx-1.26.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/2.0", host: "localhost", referrer: "https://localhost/lab4/index.html"
+2024/12/08 01:17:35 [notice] 14388#13356: signal process started
+2024/12/08 01:17:43 [error] 16320#13504: *150 CreateFile() "C:\FAKS\ZIMSKI_SEMESTAR\NRPPW\Labosi\Lab4\nginx-1.26.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "https://localhost/lab4/index.html"
+2024/12/08 16:14:30 [error] 16320#13504: *170 CreateFile() "C:\FAKS\ZIMSKI_SEMESTAR\NRPPW\Labosi\Lab4\nginx-1.26.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "https://localhost/lab4/index.html"
+2024/12/08 16:17:44 [error] 16320#13504: *174 CreateFile() "C:\FAKS\ZIMSKI_SEMESTAR\NRPPW\Labosi\Lab4\nginx-1.26.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "https://localhost/lab4/index.html"
+2024/12/08 16:17:54 [error] 16320#13504: *186 CreateFile() "C:\FAKS\ZIMSKI_SEMESTAR\NRPPW\Labosi\Lab4\nginx-1.26.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/12/08 16:21:30 [error] 16320#13504: *215 CreateFile() "C:\FAKS\ZIMSKI_SEMESTAR\NRPPW\Labosi\Lab4\nginx-1.26.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "https://localhost/lab4/index.html"
+2024/12/08 16:23:43 [notice] 5204#19016: signal process started
+2024/12/08 16:23:50 [error] 14560#17528: *234 CreateFile() "C:\FAKS\ZIMSKI_SEMESTAR\NRPPW\Labosi\Lab4\nginx-1.26.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/2.0", host: "localhost", referrer: "https://localhost/lab4/index.html"
+2024/12/08 16:24:54 [notice] 13040#13660: signal process started
+2024/12/08 16:24:58 [error] 8900#2400: *245 CreateFile() "C:\FAKS\ZIMSKI_SEMESTAR\NRPPW\Labosi\Lab4\nginx-1.26.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "https://localhost/lab4/index.html"
+2024/12/08 16:28:35 [notice] 13112#15312: signal process started

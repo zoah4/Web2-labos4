@@ -1,0 +1,10 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+h1 {
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+}
+p {
+    font-weight: bold;
+}

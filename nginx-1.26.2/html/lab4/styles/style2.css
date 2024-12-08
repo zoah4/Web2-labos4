@@ -1,0 +1,11 @@
+body {
+    background-color: lightcoral;
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+p {
+    line-height: 1.6;
+    font-style: italic;
+}
